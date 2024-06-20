@@ -1,0 +1,13 @@
+# Chart metadata
+apiVersion: v2
+name: hello-world
+description: A simple Node.js Hello World application
+version: 1.0.0
+
+# Dependencies (optional for complex charts)
+# dependencies:
+
+# Maintainers
+maintainers:
+- name: Vanshul
+  email: vanshul@example.com
